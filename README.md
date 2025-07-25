@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Morgan Teague!
 
-🌟 I’m a rising 11th-grade student at Benjamin Banneker Academic High School. With over 10 years of experience in STEM advocacy through **Black Girls CODE**, I’ve led app design challenges with NASA, served as a memeber of the Mikva Student Voice Council, and built a strong foundation in computer science and engineering. I’m passionate about sustainability, aerospace innovation, and creating equitable access to tech careers for underrepresented communities.
+🌟 I’m a rising 12th-grade student at Benjamin Banneker Academic High School. With over 10 years of experience in STEM advocacy through **Black Girls CODE**, I’ve led app design challenges with NASA, served as a memeber of the Mikva Student Voice Council, and built a strong foundation in computer science and engineering. I’m passionate about sustainability, aerospace innovation, and creating equitable access to tech careers for underrepresented communities.
 
 ---
 
