@@ -29,6 +29,5 @@
 
 ---
 
-## 🌍 Connect With Me  
-📱 Instagram:@morgannjadee._ 
+## 🌍 Connect With Me   
 🔗 LinkedIn: [Morgan Teague](https://www.linkedin.com/in/morgan-teague-466852232/)  
