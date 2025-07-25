@@ -7,7 +7,7 @@
 ---
 
 ## ✨ A Glimpse into My World
-
+  
 ![Coding Girl Power](https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif)  
 ![Tech Flow](https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif)
 
@@ -26,9 +26,6 @@
 🔗 [Black Girls CODE Programs](https://www.blackgirlscode.com/)
 
 ---
-
-## 📸 Profile Image  
-<img src="" />
 
 ---
 
