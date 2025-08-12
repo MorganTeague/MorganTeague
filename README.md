@@ -14,10 +14,7 @@
 ---
 
 ## 🧠 My Tech Projects  
-📱 [MorganTech Smart Home Dashboard Brand Kit (Figma)](https://www.figma.com/design/4lR1M3009HEMnZ8mpUd2r0/Untitled?node-id=0-1&t=y5NLJM9SozGWE835-1)  
-📱 [MorganTech Founders Portfolio (Figma)](https://www.figma.com/design/4lR1M3009HEMnZ8mpUd2r0/Untitled?node-id=5-22&t=y5NLJM9SozGWE835-1)  
-📱 [MorganTech Webframe (Figma)](https://www.figma.com/design/4lR1M3009HEMnZ8mpUd2r0/Untitled?node-id=5-22&t=y5NLJM9SozGWE835-1)  
-
+📱 [ByteBloom](https://morganteague.github.io/index.html)  
 
 ---
 
